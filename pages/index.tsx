@@ -3,7 +3,7 @@ import { getHeapCodeStatistics } from 'v8'
 import styles from '../styles/Home.module.scss'
 import Link from 'next/link'
 import { ThemeProvider } from '@material-ui/core/styles';
-import theme from './theme'
+import theme from '../public/theme'
 import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
