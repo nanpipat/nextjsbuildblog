@@ -118,7 +118,7 @@ const Home: React.FC<{ posts: Post[] }> = (props) => {
         </Toolbar>
       </AppBar>
       <Box className={classes.hero}>
-        <Box>Next js Blog</Box>
+        <Box>Nanpipat Blog</Box>
       </Box>
       <Container maxWidth="lg" className={classes.blogsContainer}>
         <Typography variant="h4" className={classes.blogTitle} >
